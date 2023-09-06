@@ -1,7 +1,7 @@
 VERSION=2.0
 <b><size=18>AudioTiles 2.0 is officially here!</size></b>
 <size=9>
-I'ts been a long time coming, but we're dropping a bunch of new features and fixes we felt deserved a major version upgrade.
+It's been a long time coming, but we're dropping a bunch of new features and fixes we felt deserved a major version upgrade.
 
 What's new:
 * <b>No More Ads!!</b>
